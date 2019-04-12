@@ -1,0 +1,588 @@
+le-wagon/whats-your-goal-for-learning-to-code-8231e239ede,What’s your goal for learning to code?,"This very scholar approach is terribly frustrating when it comes to programming or hands-on skills. Here is what happens when you start applying it:
+
+Seven years later, I am running Le Wagon, one of the most recognised coding bootcamps in the world, present in 27 cities, with an amazing community of 2000+ alumni. So it begs the question.
+
+At some point, my friend Mathieu, one of the initial co-founders of Le Wagon, asked me to code with him on side-projects. This guy was always learning stuff with a very clear objective in mind. At that time, Mathieu was for instance trying to collect data from mobile text messages to build interesting visualisations (working on TxTo).
+
+So I gathered a bit of my scattered programming knowledge and started working on side projects with Mathieu. From then on, I learned much more and much faster. Most importantly my learning goals switched! And I realised one thing. You don’t learn to code to play with the latest technology, grasp difficult concepts rewarding for your ego, or learn weird syntax and shine at cocktail parties.
+
+Obviously many developers like Le Wagon’s CTO Sebastien have been driven by this philosophy since their childhood. But for me as a coding beginner without a real goal or passion, that was an incredible discovery. Since this day, I’ve decided to focus on teaching programming the best way I can to make people build useful products and solve problems. That’s where Le Wagon comes from.
+
+Nowadays, when I read all these posts about “Which programming language is the best?”, “Which technology you must start learning?” or “Which tech program will get you a 6-digit salary?”, I just feel this is introducing hype, FOMO, rewards, and wrong incentives for coding beginners.
+
+So here are some insights I wish I had when I started learning to code. Maybe that would have accelerated the switch of my ”learning goals”.
+
+Programming, data-science, web-development, UX design, product management, growth marketing, AI, machine-learning...
+
+Python, ruby, PHP, JavaScript, C++, Rails, node.js, HTML, CSS, React.js, d3.js, etc…
+
+edX, Coursera, Freecodecamp, Codecademy, Treehouse, Udemy, Lynda, Udacity, not to mention hundreds of coding bootcamps worldwide
+
+A lifetime is not enough to learn all this. So it’s just normal if you feel lost (even anxious 😱😱😱) and ask yourself questions like:
+
+Well, maybe you’re just like me when I started to learn programming. You haven’t set the right goals for yourself. You’re distracted by hype, FOMO, rewards. So take a step back. Forget “what’s best”. Forget “what’s hype”.
+
+Whether you go the data, the product, or the engineer way, there is no shortcut.
+
+For instance, if you focus on web-development, learn to build a robust web application applying good coding practices, whatever the underlying language you choose (ruby, python, javascript, etc…). Learn this honestly before you decide if you want to build a 10 million user real-time mobile game or become a React.js expert because a friend told you it’s swag 😎.
+
+For instance, let me describe the way we articulate the first weeks of our coding bootcamp at Le Wagon:
+
+For us, this is the only honest approach in teaching programming and web-development. We could start by making students code small HTML/CSS websites that they could show to their friends when they come back home. Of course, this might be a more immediate reward for them.
+
+Well, we are not at school anymore. Students are not here to get immediate rewards but to learn to build things. Even if they find this approach hard and sometimes frustrating, eventually they’ll realise this and thank us at the end of the bootcamp for teaching them core concepts in a structured way.
+
+And after developing their final project, they know they can build products with solid foundations, from which they will keep learning.
+
+That’s the only reward that really matters at the end.",Boris Paillard,true
+le-wagon/teaching-programming-is-hard-f4ad74e702d0,Teaching Programming is Hard,"The traditional education system hasn’t found the recipe yet to teach technology properly. In fact, what universities offer to students strongly differs from what the industry is looking for, especially in high moving fields like web development.
+
+While traditional schools struggle to re-invent themselves on these new topics, the tech education market is booming. Hundreds of tutorials and resources are posted on edX, Coursera, Codecademy, Treehouse, Udemy, Lynda, etc… Udacity is partnering with big companies like Google and Facebook to build joint “nano-degrees”. Actors like General Assembly are raising millions to become global players of the on-site tech education. The coding bootcamp market is exploding and getting crowded. In the US and Canada alone, the number of coding bootcamps has grown from 67 to 91 from 2015 to 2016 (+35% in 1 year).
+
+When a market is quickly expanding like this, it’s generally hard to separate the wheat from the chaff. Especially with sensationalized marketing campaigns and over-promising messages like “learn to build an iOS application in one week”. Lots of actors pretend to deliver the same value and to offer a 99% job placement rate, which (of course) is not true. Obama states every kid should learn to code while media like TechCrunch sometimes take the opposite position to balance the debate.
+
+In my opinion, this all comes down to a single question:
+
+It turns out learning technical subjects is just like learning anything else: great teachers make all the difference. Does this surprise you? (It shouldn’t). Take the course on machine learning by Andrew Ng that launched Coursera back in 2012. To this day, data-scientists recommend the course as the best introduction to machine-learning out there. I am sure that behind the scenes, a lot of time and effort went into the design and execution of this course. Still, it’s the work of one teacher (or a few at least). Education is very scalable since one single teacher can have an impact on millions of students. But scaling does not necessarily requires money or big tech disruption, it requires talent, time and passion.
+
+Maybe one day, neuroscience will be so advanced that you’ll be able to learn something new in a few minutes. Right now, this is only science-fiction. The educational process today is formed of experiences that are broadly defined by the curriculum, which means the journey you experience as a student to learn new concepts and skills. This journey is about examples, structure, challenges, rhythm, entertainment, not just content.
+
+I had a terrible experience as a student when I first learned programming at school. Let me describe to you the typical C++ (programming language) course I had during my studies:
+
+During this course, we never saw a teacher open his text editor and actually code something. We never discussed how you build softwares with code. We never used APIs or scrape information from websites to play with real-life data. For me, code was just boring concepts without real purpose. None of us really cared.
+
+When I started coding tech products with my friend Mathieu (one of the initial co-founders of Le Wagon) I just realised how fascinating code is:
+
+I had found my new passion. I discovered a thrilling, engaging world that actually required my whole brain, one that required a diverse set of skills that didn’t at all resemble my C++ class. So, it begs the question:
+
+The answer is simple. A great student’s experience requires lots of iterations. Traditional schools don’t have the right setup for that.
+
+Ask any conscientious teacher to give an opinion on a course he designed five years ago. Well, he will always tell you it needs a serious refresh. And it’s not by putting this course online on Coursera or edX that it becomes great all of a sudden. So why do traditional schools struggle to iterate on their curriculum when it’s their core product?
+
+At Le Wagon, and in other coding bootcamps, we have a different setup to iterate on our curriculum:
+
+Since the beginning, we made major iterations on our curriculum and platforms more than 15 times (4 times every year). We tested and implemented lots of new ideas:
+
+We tested tons of new features in the curriculum but we also iterated a lot on the content itself of our lectures and exercises. More than 2,105 times during the last 3 years to be precise 😱😱😱. You can see that on the Github repository hosting all our exercises.
+
+Also, because our students pay for their education, our only key metric is our NPS per session (if you don’t know what NPS is about, you can read this article). Here are Le Wagon’s NPS for all the Paris batches of 2016–2017.
+
+Having a NPS above 70 is our only priority. We don’t want our students to be satisfied about our program, we want them to go through a life-changing learning experience. That’s what a curriculum should be about, experience.
+
+I come from a great engineering school in France and I’m proud of it. Even if they did a really poor job in teaching me how to program, I still think the school was great on many other topics and taught me how to learn. However, there is still one thing I don’t get:
+
+There are so many inspiring alumni from my school’s network. Hundreds of engineers who have invented innovative services and products, hundreds of entrepreneurs who have amazing stories to tell. So why the only “inspirational” talks I had as a student were given my non-inspirational bankers and consultants?
+
+If you look at Le Wagon’s Youtube channel, you’ll see that we organised more than 100 talks world-wide with first-class entrepreneurs and CTOs (from Github, Criteo, Devialet, Trainline, Doctolib, etc…). These talks are nearly as important as the rest of the curriculum. For us, inspiration is part of the education we provide to our students.
+
+Very few people really know what they want to do. For most of us, we need to be inspired and hear stories to “discover our calling”.
+
+Not only you need inspiration as an “adult student” but I’m also convinced that vocation comes out of expertise. To know if you really like something, you have to become an expert (or at least a junior expert 😊) in that specific discipline.
+
+When I was at school, I was not a big fan of chemistry for instance. But who knows, maybe it would have become a true passion if I had gone through a 2-month intensive chemistry bootcamp with great teachers. When you reach expertise, you become autonomous and you start being creative. It’s only at this point when you can decide whether or not you really like something.
+
+For most of us, it’s easy to know what we don’t like, but what’s harder is to articulate what we do like. For that, we need both inspiration and expertise. That’s why the “bootcamp” education model is so interesting and applies so well to concrete skills like web-development. Because it immerses yourself in one discipline for months until you reach the expertise necessary to decide whether or not you want to continue doing that.
+
+Behind every great curriculum is a great teacher. And, don’t expect to nail it the first time, instead create systems that foster feedback and iterations for continuous improvement:
+
+Thanks for reading. I’d love to hear your thoughts and opinions in the comments section, whether your are a teacher, a student, a bootcamp alumni, or just passionate about education like we are at Le Wagon.",Boris Paillard,true
+le-wagon/this-is-what-a-developer-looks-like-379c261db24d,This is what a developer looks like,"Lola likes reading and wearing dad hats. But above all, Lola loves coding. She loves it so much that she has made it her passion, and ultimately, her job.
+
+Lola studied translation, linguistics and literature at university. She then worked as a freelance translator for a while, and ended up working in marketing, which she didn’t really enjoy. One day, she decided to learn to code. As two of her friends had done Le Wagon and loved it, she quit her job and joined the next Paris batch.
+
+Her studying at Le Wagon was just the beginning of her coding journey. As she had almost finished the bootcamp, one of her teachers asked her if she would like to become a Teaching Assistant. She immediately said yes.
+
+I have been working in the tech space for 4 years, so I’m used to seeing few women around, especially in technical teams. When I joined Le Wagon a few weeks ago, I immediately noticed amazing and passionate women developers around me. Not being a developer myself (though I have already considered it), I asked them how they felt about coding, and why they thought so few women were interested in it.
+
+So I asked Lola what she loved about coding. Her answer is compelling 😍
+
+Beautiful, isn’t it? And besides being beautiful, it makes the perfect intro to a very important point.
+
+It may well be that you related to what Lola depicted above. You may have told yourself “wow, this seems fantastic, this stuff was made for me. I need to start coding right away”. And maybe you didn’t. What I’m certain about is that it has nothing to do with your being a 👨‍🎓 or a 👩‍🎓.
+
+To make sure that I got it right, I asked other girls what they loved about coding. Girls working at Le Wagon: developers, teachers, teaching assistants.
+
+This is what Sandrine, developer and teacher at Le Wagon, told me.
+
+“I love coding for a ton of different reasons: I love the fact that I can work on a problem and see immediate results — positive or negative. It requires you to dive deep into a problem, there is no room for bullshit or half-assed solutions.
+
+The challenge is also what Cecile, part-time Le Wagon teacher, part-time freelance developer, enjoys in her job: “being a developer means being constantly challenged, every day”. There is something else that she is fond of: bringing to life projects that she cares about.
+
+“What I love about web development is that you can bring your expertise to every sector that you like. I used to work for an e-commerce fashion website, then for an auction platform, now I work with Fizzer, an awesome app created by two Le Wagon alumni. I can help bring to life all the projects I believe in.”
+
+Intellectual challenge ✅ Constant learning ✅ Daily victories ✅ Are these especially male or female stuff?
+
+Karine used to be a designer. She did Le Wagon, and now, she is a full-time developer, teacher and co-founder of web agency Poulpe.
+
+Freedom ✅ Creativity ✅ Empowerment ✅ Again, especially male or female stuff?
+
+At Le Wagon, bringing more women to code is a real challenge. Slowly but surely, we’re getting there, some cities being more successful than others in that matter 😬
+
+Coding should appeal to girls and boys equally, right? But the reality is quite different.
+
+Of course, these figures are biased: percentages vary from batch to batch. For instance, Barcelona has had 27% female students since it launched, and this latest batch is not representative of the city’s diversity efforts. But on the whole, among the latest Le Wagon batches across the world — and throughout Le Wagon’s history — women have represented 25% of the students on average. We could be satisfied by this figure. After all, it is still higher than the average percentage of women in many companies’ tech teams.
+
+We receive more and more applications from women, but there are still too few of them. We feel sorry that so few women feel like coding is for them. We feel sorry that so few women have the opportunity to use this very empowering and fulfilling tool that is web development 💥
+
+If coding is a matter of “hard work, drive, self-confidence and a hunger for learning” (I took that from Sandrine), then why is the field lacking women? And why do we associate the word “developer” to a grumpy guy instead of a smiling girl? 💃
+
+For Alice, developer and teacher at Le Wagon Berlin, many women don’t even think that coding could be a choice for them. It seems that the good old developer image is deeply rooted in our collective unconscious.
+
+But hey! Alice also thinks that this pattern is quickly evolving, and that it is partly due to the nature of the profession: “On the technological side, we constantly need to evolve, so on the social side that happens as well. Change can be very, very fast.”
+
+💪💪💪
+
+So, close your eyes and tell me: what does a developer look like now?",Rebecca Menat,true
+le-wagon/want-to-keep-your-job-while-doing-the-bootcamp-heres-why-you-most-likely-shouldn-t-af15e76be9f0,Want to keep your job while doing the bootcamp? Here’s why you most likely shouldn’t,"Want to keep your job while doing the bootcamp? Here’s why you most likely shouldn’t
+
+… and how to do it right if you really have to
+
+source
+
+You gave it a lot of thought and decided to enroll into a coding bootcamp. The only thing you’re still hesitant about is what to do with your current job. It would be nice to have a plan B after the bootcamp is over, paying for the course already ate up a big chunk of your savings and you can’t ask your parents for a loan. Ideally you would get your employer to agree to flexible working hours and do your job in the evenings and weekend, right?
+
+As professionals of the XXI century, we like to believe we are good at multitasking. We are used to high-paced working environments and being faced with challenges that require excellent time management skills. It’s what we emphasise on our LinkedIn profiles and brag about in cover letters. That’s why you probably won’t like what I’m about to tell you: keeping your job while doing the bootcamp is not a good idea. Many schools will put it as a prerequisite, but here’s why you should give yourself a couple of weeks off even if your bootcamp doesn’t force you to do it.
+
+You’ll be tired
+
+A coding bootcamp is not a full time job. It’s way more. You start your classes in the morning, tackle lots of coding problems during the day and finish off with some more group programming. By the time you’re done for the day it might get dark (even if you don’t do your bootcamp in Scandinavia in wintertime). You’ll not only be tired physically but mentally exhausted too. Starting on your professional tasks at this point, and — even worse — pretending like you can be productive now, is going to be extremely difficult, if not impossible.
+
+
+
+You won’t be efficient
+
+Exhaustion doesn’t pair well with productivity. Tiredness will affect your work, no doubt about that. If that’s not an issue for you, ask your employer if they won’t mind either. And if they don’t, maybe not having you around for a couple of weeks also wouldn’t be a problem?
+
+You won’t learn as much as you could
+
+The tiredness will have an impact on your learning as well. It’s no secret that our brains are not great at absorbing new information when we are sleep deprived. Rest is a part of the learning process. If you skip it, you’ll likely struggle even more than one anyway does in a bootcamp. Keep in mind that you’re paying a lot of money precisely to learn. Do your math and make sure that the money you earn in the duration of the bootcamp actually balances the money you waste by impairing your learning potential.
+
+
+
+You’ll blame the program
+
+Even though there are exceptions to every rule, I’ve seen it time after time: a student keeps their job, starts slowly falling behind from week 1 and soon after that raises complaints about the program. I’ve heard criticism about pretty much everything, starting with the teaching staff lacking skills, to written materials being insufficient, to the working area being too loud for the person to focus in. As much as all of these might be true for different bootcamps, in my experience the link between student’s exhaustion affecting their studying and how often they blame it on the external circumstances is clear.
+
+You’ll miss out
+
+A coding bootcamp is also a social experience and a great chance to network. Having to rush to your work straight after the classes will mean missing out on group dinners and afternoon drinks but also the extracurricular activities organised by the bootcamp staff, like meetups, talks and workshops. As much as they are facultative, they are also invaluable. Socialising with your peers, who are going through the same struggle as you are, can be comforting, but also educational. You can learn from each other’s experiences and build relationships for the future. And there’s no way of catching up on that when the bootcamp is finished.
+
+So what if you have no choice but to keep your job?
+
+First of all, make sure you explored all your alternatives.
+
+
+
+Many employers are open to sabbaticals. This way you get to keep your plan B for after the bootcamp while getting time off for the period of the course.
+
+Save up. Waiting a couple of months and saving up in the meantime might actually pay off more than trying to juggle too many balls at once.
+
+Ask family or friends for a loan. This way you don’t need to worry about the growing debt in a bank and the pay back date might be more flexible.
+
+Apply for grants. Many bootcamps offer different types of scholarships and discounts, which can drastically decrease the cost of your chosen course. Switchup keeps a list of external grants too.
+
+Bootstrap your funding. Get into the entrepreneurial mindset and launch a kickstarter campaign.
+
+… and if there’s no other choice but to keep your job, here’s how to do it right:
+
+Sleep whenever you can
+
+No Netflix evenings, no late night skyping with friends. The time when you’re not learning and not working is for sleeping. I kid you not, you will need it and with each week you will need it more.
+
+Become a time management master
+
+Make detailed agendas and stick to them. Divide your time wisely between the bootcamp and the job. Writing things down can help getting a good overview. Always account for more time to learn than your gut tells you.
+
+Expect a lot from yourself
+
+This is not gonna be easy, which means you need to put in extra effort. If you start feeling overwhelmed, speak with your bootcamp manager and teachers, it’s likely they can offer some tips on how to best handle your situation. Always be honest with yourself. Try to imagine how the same situation would look like if you didn’t have to split your day between working and studying. Make sure you did everything in your power before pointing fingers at others.
+
+Don’t beat yourself up
+
+Not everything will work how you imagined. It probably wouldn’t even if you didn’t have a job to handle on the side. You might not manage to solve every coding challenge, or your peers might be way faster than you in grasping new concepts. That’s alright. Be realistic about your own capabilities, verify your goals (do you want to become a developer or maybe you just need a general overview of technicalities when dealing with software engineers?) and be a fair judge to yourself.
+
+Completing a coding bootcamp while keeping your job is not impossible. But it sure is not easy. If you can avoid this multitasking, do so — I’m sure you’ll appreciate it down the road and get more out of your bootcamp. If you can’t, try to make the best out of the situation. Whichever path you choose, don’t forget that a bootcamp should also be fun. So work hard, code away and enjoy it! It will be over before you know it.
+
+————————————
+
+You might also like…
+
+What is this whole coding bootcamp thing?
+
+Is a coding bootcamp something for you?
+
+Your coding bootcamp is done. Now what?
+
+",Joanna Gaudyn,true
+le-wagon/want-to-keep-your-job-while-doing-the-bootcamp-heres-why-you-most-likely-shouldn-t-af15e76be9f0,Want to keep your job while doing the bootcamp? Here’s why you most likely shouldn’t,"Want to keep your job while doing the bootcamp? Here’s why you most likely shouldn’t
+
+… and how to do it right if you really have to
+
+source
+
+You gave it a lot of thought and decided to enroll into a coding bootcamp. The only thing you’re still hesitant about is what to do with your current job. It would be nice to have a plan B after the bootcamp is over, paying for the course already ate up a big chunk of your savings and you can’t ask your parents for a loan. Ideally you would get your employer to agree to flexible working hours and do your job in the evenings and weekend, right?
+
+As professionals of the XXI century, we like to believe we are good at multitasking. We are used to high-paced working environments and being faced with challenges that require excellent time management skills. It’s what we emphasise on our LinkedIn profiles and brag about in cover letters. That’s why you probably won’t like what I’m about to tell you: keeping your job while doing the bootcamp is not a good idea. Many schools will put it as a prerequisite, but here’s why you should give yourself a couple of weeks off even if your bootcamp doesn’t force you to do it.
+
+You’ll be tired
+
+A coding bootcamp is not a full time job. It’s way more. You start your classes in the morning, tackle lots of coding problems during the day and finish off with some more group programming. By the time you’re done for the day it might get dark (even if you don’t do your bootcamp in Scandinavia in wintertime). You’ll not only be tired physically but mentally exhausted too. Starting on your professional tasks at this point, and — even worse — pretending like you can be productive now, is going to be extremely difficult, if not impossible.
+
+
+
+You won’t be efficient
+
+Exhaustion doesn’t pair well with productivity. Tiredness will affect your work, no doubt about that. If that’s not an issue for you, ask your employer if they won’t mind either. And if they don’t, maybe not having you around for a couple of weeks also wouldn’t be a problem?
+
+You won’t learn as much as you could
+
+The tiredness will have an impact on your learning as well. It’s no secret that our brains are not great at absorbing new information when we are sleep deprived. Rest is a part of the learning process. If you skip it, you’ll likely struggle even more than one anyway does in a bootcamp. Keep in mind that you’re paying a lot of money precisely to learn. Do your math and make sure that the money you earn in the duration of the bootcamp actually balances the money you waste by impairing your learning potential.
+
+
+
+You’ll blame the program
+
+Even though there are exceptions to every rule, I’ve seen it time after time: a student keeps their job, starts slowly falling behind from week 1 and soon after that raises complaints about the program. I’ve heard criticism about pretty much everything, starting with the teaching staff lacking skills, to written materials being insufficient, to the working area being too loud for the person to focus in. As much as all of these might be true for different bootcamps, in my experience the link between student’s exhaustion affecting their studying and how often they blame it on the external circumstances is clear.
+
+You’ll miss out
+
+A coding bootcamp is also a social experience and a great chance to network. Having to rush to your work straight after the classes will mean missing out on group dinners and afternoon drinks but also the extracurricular activities organised by the bootcamp staff, like meetups, talks and workshops. As much as they are facultative, they are also invaluable. Socialising with your peers, who are going through the same struggle as you are, can be comforting, but also educational. You can learn from each other’s experiences and build relationships for the future. And there’s no way of catching up on that when the bootcamp is finished.
+
+So what if you have no choice but to keep your job?
+
+First of all, make sure you explored all your alternatives.
+
+
+
+Many employers are open to sabbaticals. This way you get to keep your plan B for after the bootcamp while getting time off for the period of the course.
+
+Save up. Waiting a couple of months and saving up in the meantime might actually pay off more than trying to juggle too many balls at once.
+
+Ask family or friends for a loan. This way you don’t need to worry about the growing debt in a bank and the pay back date might be more flexible.
+
+Apply for grants. Many bootcamps offer different types of scholarships and discounts, which can drastically decrease the cost of your chosen course. Switchup keeps a list of external grants too.
+
+Bootstrap your funding. Get into the entrepreneurial mindset and launch a kickstarter campaign.
+
+… and if there’s no other choice but to keep your job, here’s how to do it right:
+
+Sleep whenever you can
+
+No Netflix evenings, no late night skyping with friends. The time when you’re not learning and not working is for sleeping. I kid you not, you will need it and with each week you will need it more.
+
+Become a time management master
+
+Make detailed agendas and stick to them. Divide your time wisely between the bootcamp and the job. Writing things down can help getting a good overview. Always account for more time to learn than your gut tells you.
+
+Expect a lot from yourself
+
+This is not gonna be easy, which means you need to put in extra effort. If you start feeling overwhelmed, speak with your bootcamp manager and teachers, it’s likely they can offer some tips on how to best handle your situation. Always be honest with yourself. Try to imagine how the same situation would look like if you didn’t have to split your day between working and studying. Make sure you did everything in your power before pointing fingers at others.
+
+Don’t beat yourself up
+
+Not everything will work how you imagined. It probably wouldn’t even if you didn’t have a job to handle on the side. You might not manage to solve every coding challenge, or your peers might be way faster than you in grasping new concepts. That’s alright. Be realistic about your own capabilities, verify your goals (do you want to become a developer or maybe you just need a general overview of technicalities when dealing with software engineers?) and be a fair judge to yourself.
+
+Completing a coding bootcamp while keeping your job is not impossible. But it sure is not easy. If you can avoid this multitasking, do so — I’m sure you’ll appreciate it down the road and get more out of your bootcamp. If you can’t, try to make the best out of the situation. Whichever path you choose, don’t forget that a bootcamp should also be fun. So work hard, code away and enjoy it! It will be over before you know it.
+
+————————————
+
+You might also like…
+
+What is this whole coding bootcamp thing?
+
+Is a coding bootcamp something for you?
+
+Your coding bootcamp is done. Now what?
+
+",Joanna Gaudyn,true
+le-wagon/want-to-keep-your-job-while-doing-the-bootcamp-heres-why-you-most-likely-shouldn-t-af15e76be9f0,Want to keep your job while doing the bootcamp? Here’s why you most likely shouldn’t,"Want to keep your job while doing the bootcamp? Here’s why you most likely shouldn’t
+
+… and how to do it right if you really have to
+
+source
+
+You gave it a lot of thought and decided to enroll into a coding bootcamp. The only thing you’re still hesitant about is what to do with your current job. It would be nice to have a plan B after the bootcamp is over, paying for the course already ate up a big chunk of your savings and you can’t ask your parents for a loan. Ideally you would get your employer to agree to flexible working hours and do your job in the evenings and weekend, right?
+
+As professionals of the XXI century, we like to believe we are good at multitasking. We are used to high-paced working environments and being faced with challenges that require excellent time management skills. It’s what we emphasise on our LinkedIn profiles and brag about in cover letters. That’s why you probably won’t like what I’m about to tell you: keeping your job while doing the bootcamp is not a good idea. Many schools will put it as a prerequisite, but here’s why you should give yourself a couple of weeks off even if your bootcamp doesn’t force you to do it.
+
+You’ll be tired
+
+A coding bootcamp is not a full time job. It’s way more. You start your classes in the morning, tackle lots of coding problems during the day and finish off with some more group programming. By the time you’re done for the day it might get dark (even if you don’t do your bootcamp in Scandinavia in wintertime). You’ll not only be tired physically but mentally exhausted too. Starting on your professional tasks at this point, and — even worse — pretending like you can be productive now, is going to be extremely difficult, if not impossible.
+
+
+
+You won’t be efficient
+
+Exhaustion doesn’t pair well with productivity. Tiredness will affect your work, no doubt about that. If that’s not an issue for you, ask your employer if they won’t mind either. And if they don’t, maybe not having you around for a couple of weeks also wouldn’t be a problem?
+
+You won’t learn as much as you could
+
+The tiredness will have an impact on your learning as well. It’s no secret that our brains are not great at absorbing new information when we are sleep deprived. Rest is a part of the learning process. If you skip it, you’ll likely struggle even more than one anyway does in a bootcamp. Keep in mind that you’re paying a lot of money precisely to learn. Do your math and make sure that the money you earn in the duration of the bootcamp actually balances the money you waste by impairing your learning potential.
+
+
+
+You’ll blame the program
+
+Even though there are exceptions to every rule, I’ve seen it time after time: a student keeps their job, starts slowly falling behind from week 1 and soon after that raises complaints about the program. I’ve heard criticism about pretty much everything, starting with the teaching staff lacking skills, to written materials being insufficient, to the working area being too loud for the person to focus in. As much as all of these might be true for different bootcamps, in my experience the link between student’s exhaustion affecting their studying and how often they blame it on the external circumstances is clear.
+
+You’ll miss out
+
+A coding bootcamp is also a social experience and a great chance to network. Having to rush to your work straight after the classes will mean missing out on group dinners and afternoon drinks but also the extracurricular activities organised by the bootcamp staff, like meetups, talks and workshops. As much as they are facultative, they are also invaluable. Socialising with your peers, who are going through the same struggle as you are, can be comforting, but also educational. You can learn from each other’s experiences and build relationships for the future. And there’s no way of catching up on that when the bootcamp is finished.
+
+So what if you have no choice but to keep your job?
+
+First of all, make sure you explored all your alternatives.
+
+
+
+Many employers are open to sabbaticals. This way you get to keep your plan B for after the bootcamp while getting time off for the period of the course.
+
+Save up. Waiting a couple of months and saving up in the meantime might actually pay off more than trying to juggle too many balls at once.
+
+Ask family or friends for a loan. This way you don’t need to worry about the growing debt in a bank and the pay back date might be more flexible.
+
+Apply for grants. Many bootcamps offer different types of scholarships and discounts, which can drastically decrease the cost of your chosen course. Switchup keeps a list of external grants too.
+
+Bootstrap your funding. Get into the entrepreneurial mindset and launch a kickstarter campaign.
+
+… and if there’s no other choice but to keep your job, here’s how to do it right:
+
+Sleep whenever you can
+
+No Netflix evenings, no late night skyping with friends. The time when you’re not learning and not working is for sleeping. I kid you not, you will need it and with each week you will need it more.
+
+Become a time management master
+
+Make detailed agendas and stick to them. Divide your time wisely between the bootcamp and the job. Writing things down can help getting a good overview. Always account for more time to learn than your gut tells you.
+
+Expect a lot from yourself
+
+This is not gonna be easy, which means you need to put in extra effort. If you start feeling overwhelmed, speak with your bootcamp manager and teachers, it’s likely they can offer some tips on how to best handle your situation. Always be honest with yourself. Try to imagine how the same situation would look like if you didn’t have to split your day between working and studying. Make sure you did everything in your power before pointing fingers at others.
+
+Don’t beat yourself up
+
+Not everything will work how you imagined. It probably wouldn’t even if you didn’t have a job to handle on the side. You might not manage to solve every coding challenge, or your peers might be way faster than you in grasping new concepts. That’s alright. Be realistic about your own capabilities, verify your goals (do you want to become a developer or maybe you just need a general overview of technicalities when dealing with software engineers?) and be a fair judge to yourself.
+
+Completing a coding bootcamp while keeping your job is not impossible. But it sure is not easy. If you can avoid this multitasking, do so — I’m sure you’ll appreciate it down the road and get more out of your bootcamp. If you can’t, try to make the best out of the situation. Whichever path you choose, don’t forget that a bootcamp should also be fun. So work hard, code away and enjoy it! It will be over before you know it.
+
+————————————
+
+You might also like…
+
+What is this whole coding bootcamp thing?
+
+Is a coding bootcamp something for you?
+
+Your coding bootcamp is done. Now what?
+
+",Joanna Gaudyn,true
+le-wagon/want-to-keep-your-job-while-doing-the-bootcamp-heres-why-you-most-likely-shouldn-t-af15e76be9f0,Want to keep your job while doing the bootcamp? Here’s why you most likely shouldn’t,"Want to keep your job while doing the bootcamp? Here’s why you most likely shouldn’t
+
+… and how to do it right if you really have to
+
+source
+
+You gave it a lot of thought and decided to enroll into a coding bootcamp. The only thing you’re still hesitant about is what to do with your current job. It would be nice to have a plan B after the bootcamp is over, paying for the course already ate up a big chunk of your savings and you can’t ask your parents for a loan. Ideally you would get your employer to agree to flexible working hours and do your job in the evenings and weekend, right?
+
+As professionals of the XXI century, we like to believe we are good at multitasking. We are used to high-paced working environments and being faced with challenges that require excellent time management skills. It’s what we emphasise on our LinkedIn profiles and brag about in cover letters. That’s why you probably won’t like what I’m about to tell you: keeping your job while doing the bootcamp is not a good idea. Many schools will put it as a prerequisite, but here’s why you should give yourself a couple of weeks off even if your bootcamp doesn’t force you to do it.
+
+You’ll be tired
+
+A coding bootcamp is not a full time job. It’s way more. You start your classes in the morning, tackle lots of coding problems during the day and finish off with some more group programming. By the time you’re done for the day it might get dark (even if you don’t do your bootcamp in Scandinavia in wintertime). You’ll not only be tired physically but mentally exhausted too. Starting on your professional tasks at this point, and — even worse — pretending like you can be productive now, is going to be extremely difficult, if not impossible.
+
+
+
+You won’t be efficient
+
+Exhaustion doesn’t pair well with productivity. Tiredness will affect your work, no doubt about that. If that’s not an issue for you, ask your employer if they won’t mind either. And if they don’t, maybe not having you around for a couple of weeks also wouldn’t be a problem?
+
+You won’t learn as much as you could
+
+The tiredness will have an impact on your learning as well. It’s no secret that our brains are not great at absorbing new information when we are sleep deprived. Rest is a part of the learning process. If you skip it, you’ll likely struggle even more than one anyway does in a bootcamp. Keep in mind that you’re paying a lot of money precisely to learn. Do your math and make sure that the money you earn in the duration of the bootcamp actually balances the money you waste by impairing your learning potential.
+
+
+
+You’ll blame the program
+
+Even though there are exceptions to every rule, I’ve seen it time after time: a student keeps their job, starts slowly falling behind from week 1 and soon after that raises complaints about the program. I’ve heard criticism about pretty much everything, starting with the teaching staff lacking skills, to written materials being insufficient, to the working area being too loud for the person to focus in. As much as all of these might be true for different bootcamps, in my experience the link between student’s exhaustion affecting their studying and how often they blame it on the external circumstances is clear.
+
+You’ll miss out
+
+A coding bootcamp is also a social experience and a great chance to network. Having to rush to your work straight after the classes will mean missing out on group dinners and afternoon drinks but also the extracurricular activities organised by the bootcamp staff, like meetups, talks and workshops. As much as they are facultative, they are also invaluable. Socialising with your peers, who are going through the same struggle as you are, can be comforting, but also educational. You can learn from each other’s experiences and build relationships for the future. And there’s no way of catching up on that when the bootcamp is finished.
+
+So what if you have no choice but to keep your job?
+
+First of all, make sure you explored all your alternatives.
+
+
+
+Many employers are open to sabbaticals. This way you get to keep your plan B for after the bootcamp while getting time off for the period of the course.
+
+Save up. Waiting a couple of months and saving up in the meantime might actually pay off more than trying to juggle too many balls at once.
+
+Ask family or friends for a loan. This way you don’t need to worry about the growing debt in a bank and the pay back date might be more flexible.
+
+Apply for grants. Many bootcamps offer different types of scholarships and discounts, which can drastically decrease the cost of your chosen course. Switchup keeps a list of external grants too.
+
+Bootstrap your funding. Get into the entrepreneurial mindset and launch a kickstarter campaign.
+
+… and if there’s no other choice but to keep your job, here’s how to do it right:
+
+Sleep whenever you can
+
+No Netflix evenings, no late night skyping with friends. The time when you’re not learning and not working is for sleeping. I kid you not, you will need it and with each week you will need it more.
+
+Become a time management master
+
+Make detailed agendas and stick to them. Divide your time wisely between the bootcamp and the job. Writing things down can help getting a good overview. Always account for more time to learn than your gut tells you.
+
+Expect a lot from yourself
+
+This is not gonna be easy, which means you need to put in extra effort. If you start feeling overwhelmed, speak with your bootcamp manager and teachers, it’s likely they can offer some tips on how to best handle your situation. Always be honest with yourself. Try to imagine how the same situation would look like if you didn’t have to split your day between working and studying. Make sure you did everything in your power before pointing fingers at others.
+
+Don’t beat yourself up
+
+Not everything will work how you imagined. It probably wouldn’t even if you didn’t have a job to handle on the side. You might not manage to solve every coding challenge, or your peers might be way faster than you in grasping new concepts. That’s alright. Be realistic about your own capabilities, verify your goals (do you want to become a developer or maybe you just need a general overview of technicalities when dealing with software engineers?) and be a fair judge to yourself.
+
+Completing a coding bootcamp while keeping your job is not impossible. But it sure is not easy. If you can avoid this multitasking, do so — I’m sure you’ll appreciate it down the road and get more out of your bootcamp. If you can’t, try to make the best out of the situation. Whichever path you choose, don’t forget that a bootcamp should also be fun. So work hard, code away and enjoy it! It will be over before you know it.
+
+————————————
+
+You might also like…
+
+What is this whole coding bootcamp thing?
+
+Is a coding bootcamp something for you?
+
+Your coding bootcamp is done. Now what?
+
+",Joanna Gaudyn,true
+le-wagon/teaching-programming-is-hard-f4ad74e702d0,Teaching Programming is Hard,"Teaching Programming is Hard
+
+How to disrupt traditional universities and apply rapid iteration to build the best tech curriculum.
+
+
+
+The traditional education system hasn’t found the recipe yet to teach technology properly. In fact, what universities offer to students strongly differs from what the industry is looking for, especially in high moving fields like web development.
+
+While traditional schools struggle to re-invent themselves on these new topics, the tech education market is booming. Hundreds of tutorials and resources are posted on edX, Coursera, Codecademy, Treehouse, Udemy, Lynda, etc… Udacity is partnering with big companies like Google and Facebook to build joint “nano-degrees”. Actors like General Assembly are raising millions to become global players of the on-site tech education. The coding bootcamp market is exploding and getting crowded. In the US and Canada alone, the number of coding bootcamps has grown from 67 to 91 from 2015 to 2016 (+35% in 1 year).
+
+When a market is quickly expanding like this, it’s generally hard to separate the wheat from the chaff. Especially with sensationalized marketing campaigns and over-promising messages like “learn to build an iOS application in one week”. Lots of actors pretend to deliver the same value and to offer a 99% job placement rate, which (of course) is not true. Obama states every kid should learn to code while media like TechCrunch sometimes take the opposite position to balance the debate.
+
+In my opinion, this all comes down to a single question:
+
+What exactly makes a great tech curriculum?
+
+Surprise! Good curriculums start with great teachers
+
+It turns out learning technical subjects is just like learning anything else: great teachers make all the difference. Does this surprise you? (It shouldn’t). Take the course on machine learning by Andrew Ng that launched Coursera back in 2012. To this day, data-scientists recommend the course as the best introduction to machine-learning out there. I am sure that behind the scenes, a lot of time and effort went into the design and execution of this course. Still, it’s the work of one teacher (or a few at least). Education is very scalable since one single teacher can have an impact on millions of students. But scaling does not necessarily requires money or big tech disruption, it requires talent, time and passion.
+
+Curriculum is not only about content, it’s about UX
+
+Maybe one day, neuroscience will be so advanced that you’ll be able to learn something new in a few minutes. Right now, this is only science-fiction. The educational process today is formed of experiences that are broadly defined by the curriculum, which means the journey you experience as a student to learn new concepts and skills. This journey is about examples, structure, challenges, rhythm, entertainment, not just content.
+
+I had a terrible experience as a student when I first learned programming at school. Let me describe to you the typical C++ (programming language) course I had during my studies:
+
+First, you started with a 3-hour lecture about programming concepts explained on Powerpoint lectures (please, let’s ban powerpoint in lectures 🙏🙏🙏).
+
+Then you worked alone on a PDF assignment for 2 hours and you were asked to write a program to translate numbers into roman numerals or other very useful stuff. While doing that, no one explained to you why you were doing it and what was the point.
+
+Take these two steps (Powerpoint lecture + PDF assignment) and repeat them 15 times and you will figure out the “curriculum” of my programming class.
+
+During this course, we never saw a teacher open his text editor and actually code something. We never discussed how you build softwares with code. We never used APIs or scrape information from websites to play with real-life data. For me, code was just boring concepts without real purpose. None of us really cared.
+
+How I was taught programming / How we teach programming — teachers should code.
+
+When I started coding tech products with my friend Mathieu (one of the initial co-founders of Le Wagon) I just realised how fascinating code is:
+
+It requires engineering skills to design your database and your software.
+
+It requires product skills to build features your user actually wants.
+
+It requires UX and UI skills to make your interface intuitive.
+
+It requires graphic design skills to make your product look nice 😎.
+
+It requires marketing and writing skills to explain and sell your concept.
+
+It requires analytics skills to keep track of your users’ behaviour.
+
+I had found my new passion. I discovered a thrilling, engaging world that actually required my whole brain, one that required a diverse set of skills that didn’t at all resemble my C++ class. So, it begs the question:
+
+How could my programming course suck so much?
+
+The answer is simple. A great student’s experience requires lots of iterations. Traditional schools don’t have the right setup for that.
+
+Curriculum needs iterations
+
+Ask any conscientious teacher to give an opinion on a course he designed five years ago. Well, he will always tell you it needs a serious refresh. And it’s not by putting this course online on Coursera or edX that it becomes great all of a sudden. So why do traditional schools struggle to iterate on their curriculum when it’s their core product?
+
+Long feedback loop: As a teacher, if you‘ve been running the same course every year for the last ten years, it’s really painful to iterate on your curriculum. Building a good curriculum is hard but exciting. Maintaining and improving this curriculum can be seen as the boring part. In addition, students are rarely asked for feedback. Even when they are, a teacher will never be excited about changing his/her course with only one feedback every year, it’s just depressing… Imagine a Product Manager getting only one user feedback every year, he certainly wouldn’t be doing his job!
+
+Wrong incentive: Lots of schools or universities are working mostly with brilliant researchers with PhD and impressive track record. Some of them are amazing teachers — we all had this sort of passionate teacher during our studies. But some of them also lack industry experience and prefer spending time on their next cutting edge publication than to iterate on the curriculum of the course they have been running for years, especially when their school encourages them to focus on their research work, paying them extra bonus when they get published. After all, the prestige of a school comes from the prestige of its teachers, doesn’t it? That’s how most school rankings are being calculated last time I heard. Vicious circle here.
+
+At Le Wagon, and in other coding bootcamps, we have a different setup to iterate on our curriculum:
+
+We run our program every 3-months: short cycle, short feedback loop.
+
+Students pay for a set of skills, not for a diploma. No one cares if Le Wagon doesn’t get published in a Computer Science review. No vicious circle here.
+
+Since the beginning, we made major iterations on our curriculum and platforms more than 15 times (4 times every year). We tested and implemented lots of new ideas:
+
+“Buddy” system to make each student discover and pair-program with a new classmate every day.
+
+Continuous monitoring of students’ code to actively help students who struggle during the day without asking them to pass old school exams.
+
+Tickets system to ask students to explain their issue when they are stuck.
+
+Flashcards so that students train their memory and rehearse core concepts without coding at the end of each day.
+
+etc….
+
+We tested tons of new features in the curriculum but we also iterated a lot on the content itself of our lectures and exercises. More than 2,105 times during the last 3 years to be precise 😱😱😱. You can see that on the Github repository hosting all our exercises.
+
+We have iterated 2,105 times on our exercises so far.
+
+Also, because our students pay for their education, our only key metric is our NPS per session (if you don’t know what NPS is about, you can read this article). Here are Le Wagon’s NPS for all the Paris batches of 2016–2017.
+
+
+
+Having a NPS above 70 is our only priority. We don’t want our students to be satisfied about our program, we want them to go through a life-changing learning experience. That’s what a curriculum should be about, experience.
+
+Inspiration is part of education
+
+I come from a great engineering school in France and I’m proud of it. Even if they did a really poor job in teaching me how to program, I still think the school was great on many other topics and taught me how to learn. However, there is still one thing I don’t get:
+
+Why did I get bullshit talks by banks and consulting companies for 3 years?
+
+There are so many inspiring alumni from my school’s network. Hundreds of engineers who have invented innovative services and products, hundreds of entrepreneurs who have amazing stories to tell. So why the only “inspirational” talks I had as a student were given my non-inspirational bankers and consultants?
+
+If you look at Le Wagon’s Youtube channel, you’ll see that we organised more than 100 talks world-wide with first-class entrepreneurs and CTOs (from Github, Criteo, Devialet, Trainline, Doctolib, etc…). These talks are nearly as important as the rest of the curriculum. For us, inspiration is part of the education we provide to our students.
+
+100+ talks with various entrepreneurs organised in our 20 campuses
+
+Very few people really know what they want to do. For most of us, we need to be inspired and hear stories to “discover our calling”.
+
+Don’t teach a bit of everything, students need expertise
+
+Not only you need inspiration as an “adult student” but I’m also convinced that vocation comes out of expertise. To know if you really like something, you have to become an expert (or at least a junior expert 😊) in that specific discipline.
+
+When I was at school, I was not a big fan of chemistry for instance. But who knows, maybe it would have become a true passion if I had gone through a 2-month intensive chemistry bootcamp with great teachers. When you reach expertise, you become autonomous and you start being creative. It’s only at this point when you can decide whether or not you really like something.
+
+For most of us, it’s easy to know what we don’t like, but what’s harder is to articulate what we do like. For that, we need both inspiration and expertise. That’s why the “bootcamp” education model is so interesting and applies so well to concrete skills like web-development. Because it immerses yourself in one discipline for months until you reach the expertise necessary to decide whether or not you want to continue doing that.
+
+Conclusion: let’s build great curriculums!
+
+Behind every great curriculum is a great teacher. And, don’t expect to nail it the first time, instead create systems that foster feedback and iterations for continuous improvement:
+
+Set up short feedback loop.
+
+Foster on students’ experience more than school’s prestige.
+
+Don’t neglect inspiration which should be part of education.
+
+Stop teaching a bit of everything and immerse your students so that they can reach expertise and make real career decisions.
+
+Thanks for reading. I’d love to hear your thoughts and opinions in the comments section, whether your are a teacher, a student, a bootcamp alumni, or just passionate about education like we are at Le Wagon.
+
+",Boris Paillard,true
