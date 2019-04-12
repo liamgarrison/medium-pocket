@@ -10,6 +10,11 @@ As a user, I can add a post I want to read later
 As a user, I can read a post I saved
 As a user, I can mark a post as read
 ```
+## Requirements
+
+You will need some gems to get this to work (nokogiri and open-uri). These are for HTML scraping. Run the following at the terminal.
+
+```gem install nokogiri open-uri```
 
 ## Demo
 
